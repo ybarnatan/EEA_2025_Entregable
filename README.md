@@ -22,14 +22,14 @@ Este proyecto aplica técnicas de inferencia causal sobre los datos de la Encues
 
 | Nº | Tópico | Link al video |
 |----|------------------|---------------|
-| 1  | <Introducción> | https://www.youtube.com/watch?v=XXXXXXXXXX |
-| 2  | <DAGs> | https://www.youtube.com/watch?v=XXXXXXXXXX |
-| 3  | <Descripción dataset> | https://www.youtube.com/watch?v=XXXXXXXXXX |
-| 4  | <DAG 1 "naive"> | https://www.youtube.com/watch?v=XXXXXXXXXX |
-| 5  | <DAG 2 Fork> | https://www.youtube.com/watch?v=XXXXXXXXXX |
-| 6  | <DAG 3 Chain> | https://www.youtube.com/watch?v=XXXXXXXXXX |
-| 7  | <DAG 4 Collider> | https://www.youtube.com/watch?v=XXXXXXXXXX |
-| 8  | <Conclusión> | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 1  | Introducción | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 2  | DAGs y ejemplos | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 3  | Descripción dataset | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 4  | DAG 1 "naive" | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 5  | DAG 2 Fork | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 6  | DAG 3 Chain | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 7  | DAG 4 Collider | https://www.youtube.com/watch?v=XXXXXXXXXX |
+| 8  | Conclusión | https://www.youtube.com/watch?v=XXXXXXXXXX |
 
 
 ## 🎓 Marco
