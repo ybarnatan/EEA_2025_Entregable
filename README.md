@@ -4,9 +4,9 @@ Este proyecto aplica técnicas de inferencia causal sobre los datos de la Encues
 
 
 ## 👥 Autores
-- Yair Barnatan ([LinkedIn](https://www.linkedin.com/in/yair-barnatan/))
-- German Samartino
-- Augusto Rey
+- Yair Barnatan 🔗 ([LinkedIn](https://www.linkedin.com/in/yair-barnatan/))
+- German Samartino 🔗 ([LinkedIn](https://www.linkedin.com/in/germansamartino/))
+- Augusto Rey 🔗 ([LinkedIn](https://www.linkedin.com/in/augustorey/))
 
 
 ## 📂 Estructura del Repositorio
