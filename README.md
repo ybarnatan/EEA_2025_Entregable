@@ -33,7 +33,9 @@ Este proyecto aplica técnicas de inferencia causal sobre los datos de la Encues
 
 
 ## 🎓 Marco
+
 Enfoque Estadistico del Aprendizaje (2025).
-Maestría en Explotación de Datos y Descubrimiento del Conocimiento
+
+Maestría en Explotación de Datos y Descubrimiento del Conocimiento. UBA.
 
 
