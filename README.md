@@ -37,5 +37,3 @@ Enfoque Estadistico del Aprendizaje (2025).
 Maestría en Explotación de Datos y Descubrimiento del Conocimiento
 
 
-## 📂 Estructura del Repositorio
-
