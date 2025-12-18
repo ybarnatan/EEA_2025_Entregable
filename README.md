@@ -11,7 +11,11 @@ Este proyecto aplica técnicas de inferencia causal sobre los datos de la Encues
 
 ## 📂 Estructura del Repositorio
 
-<pre> ``` 📦 EEA_2025_Entregable ┣ 📁 Presentaciones ┣ 📁 Datos ┗ 📁 Codigo ``` </pre>
+📦 EEA_2025_Entregable 
+┣ 📁 Presentaciones 
+┣ 📁 Datos 
+┗ 📁 Codigo 
+
 
 ## 📺 Contenidos y Videos de Referencia
 
